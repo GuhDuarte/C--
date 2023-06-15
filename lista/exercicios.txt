@@ -1,0 +1,14 @@
+1] Crie uma classe chamada "Veiculo" que tenha os atributos "velocidade" e "posicao".Implemente métodos para acelerar e frear o veículo, 
+alterando sua velocidade, e paramover o veículo, atualizando sua posição com base na velocidade atual.
+
+[2] Crie uma classe chamada "Matriz" que represente uma matriz bidimensional. 
+A classe deve ter atributos para o número de linhas e colunas, além de um array paraarmazenar os elementos da matriz. 
+Implemente métodos para preencher a matriz,somar duas matrizes e multiplicar a matriz por um escalar.
+
+[3] Crie uma classe chamada "Pilha" que implemente uma estrutura de dados de pilha.
+A classe deve ter um atributo para o tamanho máximo da pilha e um array paraarmazenar os elementos. 
+Implemente métodos para empilhar, desempilhar e verificar sea pilha está vazia.
+
+[4] Crie uma classe chamada "ListaDuplamenteEncadeada" que implemente uma listaduplamente encadeada. 
+A classe deve ter um nó de início e um nó de fim, além demétodos para inserir elementos no início e no fim da lista, 
+remover elementos e imprimira lista
